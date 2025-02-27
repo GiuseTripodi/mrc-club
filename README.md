@@ -16,6 +16,8 @@ Must-Read-Classics (MRC) for Machine Learning Researchers
 * [Denoising Diffusion Probabilistic Models](https://proceedings.neurips.cc/paper_files/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
 * [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
 * [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
+* [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)
+* [Efficient BackProp](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_3)
 
 ## Books
 * [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
